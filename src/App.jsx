@@ -23,6 +23,7 @@ function App() {
             <TabButton>Components</TabButton>
             <TabButton>JSX</TabButton>
             <TabButton>Props</TabButton>
+            <TabButton>State</TabButton>
             
 
           </menu>
